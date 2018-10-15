@@ -1,4 +1,4 @@
-defs----配置,api消息体结构,前台发什么过来，错误信息定义
+defs----配置信息,api消息体结构,如client端request的错误信息定义等
 dbops---数据库交互的部分
 
-逻辑处理在handlers.go
+handlers.go--逻辑处理
